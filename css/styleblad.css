@@ -1,0 +1,93 @@
+header, footer {
+    width: 1000px;
+    height: 93px;
+    background-color: #abd3df;
+}
+body {
+    width: 1000px;
+    background-color: #eee;
+}
+/*De header*/
+.titel {
+    float: right;    
+    margin: 32px 30px;
+}
+.Hplaatje {
+    float: left;
+    margin-left: 20px;
+}
+/*De tabel*/
+H1 {
+    margin-left: 20px;
+    color: #aac2ce;
+    text-align: center;  
+}
+table {
+    padding: 11px;    
+}
+td {
+    width: 240px;
+    height: 90px;
+    text-align: center;
+    font-weight: bold;    
+}
+td img {
+    margin: 6px 2px 2px 2px;
+}
+#R1K1 {
+    background-color: #99ccff;
+}
+#R1K2 {
+    background-color: #99cccc;
+}
+#R1K3 {
+    background-color: #99cc99;
+}
+#R1K4 {    
+    background-color: #99cc66; 
+}
+#R2K1 {
+    background-color: #99ccffcc;
+}
+#R2K2 {
+    background-color: #99cccccc;
+}
+#R2K3 {
+    background-color: #99cc99cc;
+}
+#R2K4 {
+    background-color: #99cc66cc;
+}
+#R3K1 {
+    background-color: #99ccff99;
+}
+#R3K2 {
+    background-color: #99cccc99;
+}
+#R3K3 {
+    background-color: #99cc9999;
+}
+#R3K4 {
+    background-color: #99cc6699;
+}
+#R4K1 {
+    background-color: #99ccff66;
+}
+#R4K2 {
+    background-color: #99cccc66;
+}
+#R4K3 {
+    background-color: #99cc9966;
+}
+#R4K4 {
+    background-color: #99cc6666;
+}
+/*De footer*/
+.footleft {
+    float: left;
+    margin: 36px 0 0 20px;
+}
+.footright {
+    float: right;
+    margin: 36px 20px 0 0;
+}
